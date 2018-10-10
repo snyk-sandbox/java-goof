@@ -30,7 +30,7 @@
                         <div class="control-group">
                             <label class="control-label" for="dueDate">Due date:</label>
                             <div class="controls">
-                                <s:textfield id="dueDate" name="todo.dueDate" required="required"/>
+                                <s:textfield id="dueDate" name="todo.dueDate" value="09/09/2018" required="required"/>
                             </div>
                         </div>
 
